@@ -1,0 +1,11 @@
+Big data is the large amount of data being created by people, tools and machines. the v's of big data are velocity, volume, veracity, variety and value. 
+Veelocity is the speed at which data is created. Variety = structured and unstructured data and different sources. VOLUME== size data. Veracity== authencity of data. 
+Value == not just profit but turning data into something useful.
+
+Mapper and reduce process. Hadoop is a framework for distrubuting large processsing data to other computers or a cluster of them from a server 
+Data Mining = Set goals, identify the key questions. Cosst benefits trade off'
+Data mining is analyzing large data to retrieve useful information 
+Steps in data mining== select the data , preprocesing data and transforming data 
+
+Predictive analysis 
+final report must include a cover page, table of content executive summary detailed content acknowledgement references and appendices
